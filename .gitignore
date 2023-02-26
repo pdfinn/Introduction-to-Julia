@@ -24,3 +24,7 @@ docs/site/
 Manifest.toml
 
 .ipynb_checkpoints/
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/Introduction-to-Julia.iml
